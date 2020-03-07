@@ -1,0 +1,11 @@
+G:\AlgorithmAnalysis\Pseudo_Implementation\bin\Debug\netcoreapp3.0\AAnalysis.exe
+G:\AlgorithmAnalysis\Pseudo_Implementation\bin\Debug\netcoreapp3.0\AAnalysis.deps.json
+G:\AlgorithmAnalysis\Pseudo_Implementation\bin\Debug\netcoreapp3.0\AAnalysis.runtimeconfig.json
+G:\AlgorithmAnalysis\Pseudo_Implementation\bin\Debug\netcoreapp3.0\AAnalysis.runtimeconfig.dev.json
+G:\AlgorithmAnalysis\Pseudo_Implementation\bin\Debug\netcoreapp3.0\AAnalysis.dll
+G:\AlgorithmAnalysis\Pseudo_Implementation\bin\Debug\netcoreapp3.0\AAnalysis.pdb
+G:\AlgorithmAnalysis\Pseudo_Implementation\obj\Debug\netcoreapp3.0\AAnalysis.csprojAssemblyReference.cache
+G:\AlgorithmAnalysis\Pseudo_Implementation\obj\Debug\netcoreapp3.0\AAnalysis.AssemblyInfoInputs.cache
+G:\AlgorithmAnalysis\Pseudo_Implementation\obj\Debug\netcoreapp3.0\AAnalysis.AssemblyInfo.cs
+G:\AlgorithmAnalysis\Pseudo_Implementation\obj\Debug\netcoreapp3.0\AAnalysis.dll
+G:\AlgorithmAnalysis\Pseudo_Implementation\obj\Debug\netcoreapp3.0\AAnalysis.pdb
